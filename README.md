@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V03902?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Rapid Gulp [Video]
 This is the code repository for [Rapid Gulp [Video]](https://www.packtpub.com/web-development/rapid-gulp-video?utm_source=github&utm_medium=repository&utm_campaign=9781784393373), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
